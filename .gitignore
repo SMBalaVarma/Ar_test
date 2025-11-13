@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.utmp
+/.vs
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Assets
+/BakeryEditorAssembly.csproj
+/BakeryRuntimeAssembly.csproj
+/bakery_times.log
+/Library
+/Logs
+/Luffy.apk
+/Luffy.sln
+/Luffyv2.apk
+/Luffy_BurstDebugInformation_DoNotShip
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UIElementsSchema
+/UserSettings
