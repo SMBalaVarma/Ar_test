@@ -23,3 +23,5 @@
 /Temp
 /UIElementsSchema
 /UserSettings
+/.vscode
+/*.csproj
