@@ -13,10 +13,7 @@
 /bakery_times.log
 /Library
 /Logs
-/Luffy.apk
-/Luffy.sln
-/Luffyv2.apk
-/Luffy_BurstDebugInformation_DoNotShip
+/Ar_test_BurstDebugInformation_DoNotShip
 /obj
 /Packages
 /ProjectSettings
@@ -25,3 +22,5 @@
 /UserSettings
 /.vscode
 /*.csproj
+/*.apk
+/*.sln
